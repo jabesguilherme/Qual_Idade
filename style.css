@@ -1,0 +1,39 @@
+body{
+    background: rgb(138, 138, 255);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+}
+#button{
+    font-size: 20px;
+    border: none;
+    background: rgba(150, 160, 255, 0.815);
+    cursor: pointer;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+}
+#foto{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+    border-radius: 50%;
+    margin-top: 10px;
+}
+div{
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
